@@ -1,1 +1,1 @@
-This is something new. I want to see if I can add a message on this on.
+This is something new. I want to see if I can add a message on this on. I want to see what it does now when I use "git merge -m "trying this one out" login 
